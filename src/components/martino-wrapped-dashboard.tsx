@@ -95,7 +95,7 @@ const dashboardCards: DashboardCard[] = [
     title: "Travel Architect: Kids, Grandma, and Adventure",
     subtitle: "Optimizing for memories per euro, not just logistics",
     description:
-      "You designed trips where constraints really matter: 9–11y kids, an 80y-old mother, seasons, budgets, and energy levels. Think Hungary, Finland cabins, Bali vs Thailand, Prague school trips. You asked for itineraries that mix culture, nature, and realistic pacing.",
+      "You designed trips where constraints really matter: kids at different stages, an elderly mother, seasons, budgets, and energy levels. Think Hungary, Finland cabins, Bali vs Thailand, Prague school trips. You asked for itineraries that mix culture, nature, and realistic pacing.",
     tags: ["Family trips", "Kid-friendly", "Grandma-friendly", "Logistics"],
     mode: "Life",
   },
