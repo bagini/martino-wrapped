@@ -86,7 +86,7 @@ const dashboardCards: DashboardCard[] = [
     title: "Narrative & LP / Founder Comms",
     subtitle: "Sharp but kind communication",
     description:
-      "From OpenAI allocation updates to intros between Rafa and Pedro, and positioning EGV in a sentence, you used ChatGPT to tune language across EN, PT-BR, and IT. Tone: respectful, concise, human, no fluff.",
+      "From OpenAI allocation updates to warm intros between founders and investors, and positioning EGV in a sentence, you used ChatGPT to tune language across EN, PT-BR, and IT. Tone: respectful, concise, human, no fluff.",
     tags: ["LP updates", "Founder-friendly", "Bilingual comms", "Positioning"],
     mode: "Work",
   },
