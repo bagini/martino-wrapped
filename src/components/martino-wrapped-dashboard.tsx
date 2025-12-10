@@ -207,22 +207,22 @@ const tourSteps = [
   {
     id: "hero",
     title: "Hero Overview",
-    text: "Start here: a snapshot of how you and ChatGPT worked together in 2025.",
+    text: "Start here: a snapshot of how Martino and ChatGPT worked together in 2025.",
   },
   {
     id: "usage",
     title: "Usage Patterns",
-    text: "See how your questions cluster into work, life, and meta-OS themes.",
+    text: "See Martino's questions cluster into work, life, and meta-OS themes.",
   },
   {
     id: "investor",
     title: "Investor & Builder Mode",
-    text: "Dive into how you used ChatGPT as a co-pilot for theses, deals, and structures.",
+    text: "Dive into how Martino used ChatGPT as a co-pilot for theses, deals, and structures.",
   },
   {
     id: "superpowers",
     title: "Signature Superpowers",
-    text: "Patterns in how your mind works when you interact with your AI co-pilot.",
+    text: "Patterns in how Martino's mind works when you interact with your AI co-pilot.",
   },
   {
     id: "outlook",
