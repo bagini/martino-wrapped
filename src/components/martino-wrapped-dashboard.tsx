@@ -222,7 +222,7 @@ const tourSteps = [
   {
     id: "superpowers",
     title: "Signature Superpowers",
-    text: "Patterns in how Martino's mind works when you interact with your AI co-pilot.",
+    text: "Patterns in how Martino's mind works when he interacts with his AI co-pilot.",
   },
   {
     id: "outlook",
